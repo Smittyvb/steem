@@ -45,7 +45,7 @@ will build out of the box without further effort:
     sudo apt-get install -y \
         autoconf \
         automake \
-        cmake \
+        cmake3 \
         g++ \
         git \
         libbz2-dev \
